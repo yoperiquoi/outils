@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="thirdparty-snap" />
+      <option name="name" value="Talend thirdparty Repository" />
+      <option name="url" value="https://artifacts-zl.talend.com/nexus/content/repositories/thirdparty-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ipaas-qa-snapshots" />
+      <option name="name" value="Nexus IPAAS releases" />
+      <option name="url" value="https://sop-ip14.servicebackbone.org:8081/nexus/content/repositories/rt-qa-ipaas-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="releases" />
+      <option name="url" value="https://artifacts-zl.talend.com/nexus/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="esb-releases" />
+      <option name="name" value="Nexus ESB releases" />
+      <option name="url" value="https://sop-ip14.servicebackbone.org:8081/nexus/content/repositories/esb-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ipaas-releases" />
+      <option name="name" value="Nexus IPAAS releases" />
+      <option name="url" value="https://sop-ip14.servicebackbone.org:8081/nexus/content/repositories/ipaas-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache-releases" />
+      <option name="name" value="Nexus Apache snapshots" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="https://artifacts-zl.talend.com/nexus/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="esb-snapshots" />
+      <option name="name" value="Nexus ESB snapshots" />
+      <option name="url" value="https://sop-ip14.servicebackbone.org:8081/nexus/content/repositories/esb-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="talend-development-repo" />
+      <option name="name" value="Talend Development Repository" />
+      <option name="url" value="https://sop-ip14.servicebackbone.org:8081/nexus/content/groups/development" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tpsvc" />
+      <option name="name" value="tpsvc" />
+      <option name="url" value="https://artifacts-zl.talend.com/nexus/content/repositories/tpsvc/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty-dev" />
+      <option name="name" value="Nexus 3rd party releases development" />
+      <option name="url" value="https://sop-ip14.servicebackbone.org:8081/nexus/content/repositories/thirdparty-dev/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ipaas-snapshots" />
+      <option name="name" value="Nexus IPAAS releases" />
+      <option name="url" value="https://sop-ip14.servicebackbone.org:8081/nexus/content/repositories/ipaas-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tmc" />
+      <option name="name" value="tmc" />
+      <option name="url" value="https://artifacts-zl.talend.com/nexus/content/repositories/tmc" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache-snapshots" />
+      <option name="name" value="Nexus Apache snapshots" />
+      <option name="url" value="https://repository.apache.org/content/groups/snapshots/" />
+    </remote-repository>
+  </component>
+</project>
