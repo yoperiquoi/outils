@@ -25,7 +25,11 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/imt/App.java" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="2463" />
+          <option name="caretOffset" value="161" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/test/java/imt/AppTest.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2131" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/pom.xml" />
         </OpenedFileInfo>
       </list>
